@@ -1,0 +1,5 @@
+export const USER_ADD_REQUEST = 'USER_ADD_REQUEST ';
+export const USER_ADD_LOADING = 'USER_ADD_LOADING';
+export const USER_ADD_SUCCESS = 'USER_ADD_SUCCESS';
+export const USER_ADD_ERROR = 'USER_ADD_ERROR';
+export const USER_ADD_ERRORS = 'USER_ADD_ERRORS';
